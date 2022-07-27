@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
-# This script is displaying "Best School" 10 times
+# displays "Best School" 10 times, using the while loop.
 
-n=0
-while [[ $n -lt 10 ]]
+i=0
+while ((i < 10))
 do
-	echo "Best School"
-	n=$((n + 1))
+	echo 'Best School'
+	((i++))
 done

@@ -3,7 +3,7 @@
 Project done during **Full Stack Software Engineering studies** at **ALX School**. It aims to learn about loops (`while`, `until` and `for`), condition statements (`if`, `else`, `elif` and `case`), shebangs and how to create SSH keys with **Bash**.
 
 ## Technologies
-* Scripts written in Bash 4.4.23(2)
+* Shell Scripts are written in Bash 4.4.23(2)
 * Tested on Ubuntu 20.04 LTS
 
 ## Files
